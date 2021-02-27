@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms-in-Python-Exercise
-Private answers to the exercise in Data Structures and Algorithms in Python (Michael T. Goodrich).
+Private answers to the exercises in Data Structures and Algorithms in Python (Michael T. Goodrich).
 
 
 
