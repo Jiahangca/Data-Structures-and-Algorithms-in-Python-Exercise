@@ -5,4 +5,4 @@ Private answers to the exercises in Data Structures and Algorithms in Python (Mi
 
 
 
-Creativity and Project questions are answered if they are methioned in the context
+Creativity and Project questions are answered only if they are methioned in the context
